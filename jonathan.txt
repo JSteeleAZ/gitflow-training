@@ -1,4 +1,0 @@
-hello jonathan!
-merge conflict
-
-make some local changes.
